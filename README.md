@@ -1,10 +1,10 @@
 # Color-Luminance-Detection
 
-Tiny script to detect type of a given color (light or dark).
+Tiny script to detect color type (light or dark) from a given 3-element array of R, G, B varying from 0 to 255.
 
 ## Example usage
 
-You will need a RGB color (`"rgb(223, 173, 52)"`) as an array.
+An example with a RGB color (`"rgb(223, 173, 52)"`)
 
 ```javascript
 var strRgbColor = 'rgb(223, 173, 52)';
