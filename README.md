@@ -1,6 +1,6 @@
 # Color-Luminance-Detection
 
-Tiny script to detect type of the given color (light or dark).
+Tiny script to detect type of a given color (light or dark).
 
 ## Example usage
 
@@ -16,4 +16,4 @@ var detectColorType = new ColorLuminanceDetection(arrRgbColor);
 
 ## Use cases
 
-* Detect background color of an element and set the font color accordingly.
+* Detect background color of an element and set font color accordingly.
